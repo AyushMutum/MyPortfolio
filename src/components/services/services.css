@@ -1,7 +1,11 @@
 .services__container{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(0, 1fr);
+    /* justify-content: center; */
+    
     gap:2rem;
+   
+
 }
 
 .service {
