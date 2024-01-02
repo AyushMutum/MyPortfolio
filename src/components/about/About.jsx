@@ -33,14 +33,14 @@ const About = () => {
               <article className='about__card'>
               <RiFoldersLine className='about__icon'/>
               <h5>Projects</h5>
-              <small>8 projects</small>
+              <small>8+ projects</small>
 
 
             </article>
           </div>
 
 <p>"Hi, I'm <strong>Ayush Mutum</strong>, a passionate and experienced web developer with a strong focus on front-end development. I thrive on transforming creative ideas into functional and visually appealing websites. With expertise in HTML, CSS, and JavaScript, I bring designs to life by creating responsive and user-friendly interfaces. I enjoy staying up-to-date with the latest web technologies and implementing best practices to deliver high-quality code. Collaborating with cross-functional teams, I have successfully developed and deployed numerous projects, ensuring seamless user experiences and optimized performance. I am dedicated to continuous learning and problem-solving, striving to deliver innovative solutions that exceed client expectations. Let's build remarkable web experiences together!"</p>
-          <p><strong>Education Background: </strong> Computer Science and Engineering student at NERIST (currently at 5th year 1st sem).</p>
+          <p><strong>Education Background: </strong> Computer Science and Engineering student at NERIST (currently at 4th year 2nd sem).</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         
         
